@@ -5,21 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de02ab82-8960-4669-90a4-f903e9ec01f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Q-market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qmarket/store/templates/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/Qmarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Qmarket/Qmarket/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/Qmarket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Qmarket/Qmarket/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Qmarket/store/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qmarket/products/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohamedQadryAhmed"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="907e3905-17af-4085-8aed-d2baecfeef4a" />
+        <option name="url" value="https://github.com/mohamedQadryAhmed/Q-market.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -32,9 +60,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
